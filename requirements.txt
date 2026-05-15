@@ -4,3 +4,9 @@ fastapi
 uvicorn
 pydantic
 faiss-cpu
+sentence-transformers
+torch
+transformers
+scikit-learn
+numpy
+pandas
