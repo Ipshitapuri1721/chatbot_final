@@ -1,0 +1,13 @@
+ft_env/
+__pycache__/
+*.pkl
+*.faiss
+*.db
+*.sqlite3
+models/
+chroma/
+faiss_index/
+*.safetensors
+*.dll
+*.json
+.env

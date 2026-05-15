@@ -1,0 +1,144 @@
+Question,Expected Answer,Generated Answer,Exact Match,Semantic Match,Similarity Score,Response Time (sec)
+What is the name of the college?,"Government Hydro Engineering College Bandla, Bilaspur (GHEC).","Government Hydro Engineering College Bandla, Bilaspur (GHEC).",True,True,1.0,12.27
+Where is GHEC located?,"Government Hydro Engineering College is located in Bandla, Bilaspur, Himachal Pradesh.",Bilaspur.,False,False,0.6496,3.77
+When was the college established?,"Government Hydro Engineering College Bandla, Bilaspur was established in the academic session 2017-2018.","Government Hydro Engineering College Bandla, Bilaspur was established in the academic session 2017–2018.",True,True,0.9983,5.59
+Is GHEC a government college?,"Yes, GHEC is a government engineering college.",Yes.,False,False,0.5073,3.57
+Which university is the college affiliated with?,The college is affiliated with Himachal Pradesh Technical University.,The college is affiliated with Himachal Pradesh Technical University.,True,True,1.0,4.46
+Who is the Director of the college?,The Director of the college is Dr. Umesh Chand Rathore.,The Director of the college is Dr. Umesh Chand Rathore.,True,True,1.0,4.7
+What courses are offered in the college?,"The college offers Civil Engineering, Electrical Engineering, and Computer Science Engineering programs.","The college offers Civil Engineering (CE), Electrical Engineering (EE), and Computer Science Engineering with specialization in Artificial Intelligence & Data Science (CSE – AI & DS).",False,True,0.865,6.68
+Is postgraduate education available?,"Yes, postgraduate education is available.",Yes.,False,False,0.6349,3.39
+Does the college offer M.Tech?,"Yes, the college offers M.Tech in Electrical Engineering.",Yes.,False,False,0.525,3.36
+Is hostel facility available?,"Yes, hostel facilities are available for students.","Yes, hostel facilities are available with basic amenities.",False,True,0.8722,4.24
+Are separate hostels available for boys and girls?,"Yes, separate hostel facilities are available for boys and girls.","Yes, separate hostels are available for boys and girls.",False,True,0.9889,4.36
+What facilities are available in hostel rooms?,"Hostel rooms include beds, study tables, chairs, and cupboards.","Hostel rooms generally include beds, study tables, chairs, and cupboards.",False,True,0.9846,4.8
+How many students stay in one hostel room?,There are 3 students staying in one room.,There are 3 students staying in one room.,True,True,1.0,4.21
+Does each student get a separate bed?,"Yes, each student is provided with a separate bed.","Yes, each student is provided with a separate bed.",True,True,1.0,4.43
+Is Wi-Fi available in the hostel?,"Yes, Wi-Fi facilities are available.",Internet or Wi-Fi is available in hostel.,False,False,0.7684,4.08
+Does hostel Wi-Fi work during power cuts?,"No, hostel Wi-Fi is not available during blackouts.",No.,False,False,0.489,3.4
+Is power backup available in hostels?,"No, power backup is not available in hostels.",No.,False,False,0.4874,3.3
+Does the college provide generator backup?,"Yes, generators are installed to provide backup in important areas.",Yes.,False,False,0.5163,3.37
+Do classrooms have electricity backup?,"Yes, classrooms have backup at reduced capacity.","Yes, classrooms have backup at reduced capacity.",True,True,1.0,4.23
+Are labs protected from power cuts?,"Yes, labs have UPS support for short interruptions.","Yes, labs have UPS support for short interruptions.",True,True,1.0,4.13
+Is library backup available during outages?,"Yes, library has backup at reduced capacity.","Yes, but at reduced capacity.",False,True,0.8375,3.85
+Who manages the hostel?,The Chief Warden manages both boys and girls hostels.,The hostel is managed by a Chief Warden who supervises both boys’ and girls’ hostels.,False,True,0.9624,5.82
+How many security guards are available in each hostel?,Each hostel has two security guards.,Each hostel has two security guards.,True,True,1.0,4.03
+Is there a caretaker in the hostel?,"Yes, each hostel has one caretaker.","Yes, each hostel has one caretaker.",True,True,1.0,4.23
+Who should students contact for hostel issues?,Students should contact the caretaker for minor hostel issues.,"Students should contact the caretaker for minor issues, and for more serious problems, they should contact the hostel warden or hostel office.",False,True,0.9467,5.98
+Who handles electrical complaints?,Maintenance staff handle electrical complaints.,Maintenance staff handle such issues.,False,True,0.875,3.67
+What are the placement opportunities in the college?,The college provides placement opportunities through various recruiting companies.,"The college provides placement training including aptitude training, group discussions, mock interviews, communication skills development, and technical preparation for campus placements.",False,False,0.7785,6.08
+Which companies recruit students from the college?,"Major recruiting companies include Pricol Precision Products Pvt. Ltd., BCC Fuba India Ltd., Novem Controls Pvt. Ltd., Hartek Power Pvt. Ltd., and C&E Consultancy Pvt. Ltd.","Major recruiting companies include Pricol Precision Products Pvt. Ltd., BCC Fuba India Ltd., Novem Controls Pvt. Ltd., Hartek Power Pvt. Ltd., and C&E Consultancy Pvt. Ltd. These companies have recruited multiple students over the past three years.",False,True,0.9475,9.43
+What is the minimum package offered?,The minimum package offered was 4 LPA.,"The minimum package offered in the last three years is 1.4 LPA. This was offered by Novem Controls Pvt. Ltd., indicating the lower bound of salary offers.",False,False,0.7988,7.24
+Does the college have renewable energy facilities?,"Yes, limited renewable energy facilities are available.","Yes, limited renewable energy is used.",False,True,0.9468,4.02
+Are solar panels used in the campus?,"Yes, some solar-powered systems like streetlights are used.",Some solar-powered systems like streetlights exist.,False,True,0.9492,4.08
+Is there a technical team in the college?,"Yes, there is a technical team for infrastructure support.","Yes, technical activities are supported through departments and student groups.",False,False,0.7416,4.48
+Does the college have an environment club?,"Yes, the college has the Environment and Energy Conservation Club.","Yes, the college has the Environment and Energy Conservation Club (E&EC).",False,True,0.9548,4.88
+Which branch is best for software jobs?,Computer Science Engineering is best for software jobs.,CSE.,False,False,0.6648,3.59
+Which branch has the highest placement opportunities?,Computer Science Engineering generally has the highest placement opportunities.,CSE generally has the highest placement opportunities due to demand in the IT and software industry.,False,True,0.8425,5.14
+Which branch is suitable for government jobs?,Electrical Engineering and Civil Engineering are suitable for government jobs.,"EE and CE are better suited for government jobs such as PSU, railways, and public works departments.",False,True,0.8238,5.32
+Can EE students enter the IT field?,"Yes, EE students can enter the IT field by learning programming and software development skills.","Yes, EE students can enter the IT field by learning programming and software development skills.",True,True,1.0,4.94
+Is coding necessary in Civil Engineering?,Coding is minimally required in Civil Engineering.,Moderally used.,False,False,0.5082,3.6
+What facilities are provided in hostel rooms?,"Hostel rooms are equipped with beds, tables, chairs, and almirahs.","Hostel rooms usually include beds, study tables, chairs, and cupboards.",False,True,0.9077,4.83
+Can students charge devices during power cuts in hostel?,"No, charging is not available in hostels during power cuts.","No, charging is not available in hostels.",False,True,0.9181,4.22
+Does the college provide internet facilities?,"Yes, internet facilities are available.","Yes, Wi-Fi facilities are available for students on campus.",False,False,0.7948,4.52
+Does internet work during outages?,"No, internet is not available during outages.",No.,False,False,0.5468,3.34
+Are classrooms affected by power cuts?,Classes may continue with limited lighting during power cuts.,"Yes, classes may continue with limited lighting.",False,True,0.9132,4.04
+How is safety maintained in the hostel?,Safety is maintained through security guards and supervision by the Chief Warden.,Safety is maintained through security guards and supervision by the Chief Warden.,True,True,1.0,4.67
+Is there UPS support in computer labs?,"Yes, UPS systems are available in computer labs.",Yes.,False,False,0.5356,3.3
+Are hostel facilities fully furnished?,"Yes, hostel rooms are fully furnished with essential furniture.",Yes.,False,False,0.5214,3.46
+What amenities are available for hostel students?,"Students are provided beds, almirahs, study tables, and chairs.",Basic amenities.,False,False,0.5709,3.44
+Does the college use generators during outages?,"Yes, generators are used for backup in important areas.",Yes.,False,False,0.5133,3.32
+What happens during long power outages?,Academic areas receive partial backup while hostels remain without electricity.,Hostels remain without electricity.,False,True,0.8177,3.78
+Are hostel corridors lit during power cuts?,"No, hostel corridors are usually dark during power cuts.",No.,False,False,0.5042,3.36
+Is the room arrangement triple sharing?,"Yes, the hostel follows a triple-sharing room arrangement.",This is a triple-sharing room arrangement with individual furniture for each student.,False,False,0.7495,4.62
+What engineering branches are available at GHEC?,"The college offers Civil Engineering, Electrical Engineering, and Computer Science Engineering.","The college offers B.Tech programs in Civil Engineering, Electrical Engineering, and Computer Science Engineering, and an M.Tech program in Electrical Engineering.",False,True,0.9152,6.58
+Does the college offer AI specialization?,"Yes, Computer Science Engineering includes specialization in Artificial Intelligence and Data Science.",Yes.,False,False,0.4879,3.57
+Are undergraduate programs available?,"Yes, undergraduate B.Tech programs are available.",Yes.,False,False,0.5931,3.39
+What postgraduate course is offered?,The college offers M.Tech in Electrical Engineering.,A Master’s program (M.Tech) in Electrical Engineering (EE).,False,True,0.8456,4.8
+Does the campus provide accommodation facilities?,"Yes, hostel accommodation facilities are available.",Yes.,False,False,0.6044,3.39
+Are boys and girls hostels separately managed?,"Yes, separate hostel facilities are available for boys and girls.","Yes, separate hostels are available for boys and girls.",False,True,0.9889,4.36
+What furniture is provided in hostel rooms?,"Each room includes beds, chairs, tables, and almirahs.","Hostel rooms usually include beds, study tables, chairs, and cupboards.",False,False,0.7865,4.85
+Does every student get an individual table?,"Yes, each student is provided with an individual table.","Yes, each student gets an individual table.",False,True,0.9746,4.15
+Does every student get an individual chair?,"Yes, each student is provided with an individual chair.","Yes, each student is provided with a separate chair.",False,True,0.952,4.32
+Is there one almirah per student?,"Yes, each student gets a separate almirah.",Yes.,False,False,0.4991,3.42
+How many beds are available in one room?,There are 3 beds available in one room.,There are 3 beds available in the room.,False,True,0.9688,4.26
+Can more than three students comfortably stay in one room?,"No, the room is designed for only 3 students.","No, the room is designed to accommodate only 3 students comfortably.",False,True,0.9665,4.68
+Is the hostel suitable for studying?,"Yes, hostel rooms include study tables and chairs for students.",Yes.,False,False,0.471,3.38
+Is there electricity backup in academic blocks?,"Yes, academic blocks have backup at reduced capacity.","Yes, academic areas have backup, but it works at reduced capacity.",False,True,0.9097,4.79
+Do hostel rooms receive backup electricity?,"No, hostel rooms do not receive backup electricity.",No.,False,False,0.5008,3.41
+Are generators installed in the college?,"Yes, generators are installed for backup purposes.",Yes.,False,False,0.527,3.39
+What happens to classrooms during power cuts?,Classes continue with limited lighting using backup support.,Classrooms have backup at reduced capacity.,False,False,0.7871,4.14
+Are computer labs connected with UPS?,"Yes, computer labs are connected with UPS systems.",Yes.,False,False,0.5264,3.36
+Does Wi-Fi remain active during blackouts?,"No, Wi-Fi does not work during blackouts.",No.,False,False,0.5394,3.49
+Can students access internet during power cuts?,"No, internet access is not available during outages.",No.,False,False,0.5296,3.4
+How does the college handle electricity failures?,The college uses generators to support essential areas during outages.,"Power cuts may occur occasionally depending on local conditions. The college uses generators to support essential areas, and backup systems support essential academic areas at reduced capacity.",False,True,0.8864,6.9
+Does the library have backup electricity?,"Yes, the library has backup electricity at reduced capacity.","Yes, library has backup at reduced capacity.",False,True,0.8953,4.18
+Can students study in the library during power cuts?,"Yes, students can study in the library with limited lighting.","Yes, but with limited lighting.",False,False,0.7374,3.96
+Who supervises hostel administration?,The Chief Warden supervises hostel administration.,The Chief Warden.,False,False,0.7864,3.98
+How many caretakers are assigned in each hostel?,Each hostel has one caretaker.,"Yes, each hostel has one caretaker.",False,True,0.9519,4.36
+Who handles hostel security?,Security guards handle hostel security.,Security guards and the Chief Warden.,False,False,0.7246,4.25
+What are the responsibilities of hostel security guards?,Security guards monitor entry and exit and maintain safety and discipline.,"Security guards monitor entry and exit, ensure safety, and maintain discipline in the hostel.",False,True,0.9078,5.5
+Whom should students contact for serious hostel problems?,Students should contact the Chief Warden for serious issues.,Students should contact the hostel warden.,False,True,0.8429,4.09
+Who handles maintenance issues in the college?,The maintenance staff handles infrastructure and maintenance issues.,College maintenance staff.,False,False,0.773,3.56
+Is there a repair team available on campus?,"Yes, a repair team is available.",Yes.,False,False,0.5999,3.39
+Which branch is suitable for AI and machine learning?,Computer Science Engineering is suitable for AI and machine learning.,"CSE provides a strong foundation for careers in AI, machine learning, and data science.",False,True,0.8103,5.72
+Which branch has more fieldwork?,Civil Engineering involves more fieldwork.,"Civil Engineering involves more fieldwork, including site visits and construction management.",False,True,0.9286,4.9
+Which engineering branch is mathematically difficult?,Electrical Engineering is often considered mathematically difficult.,"Sorry, I could not find relevant information.",False,False,0.4259,3.24
+Which branch provides higher salary opportunities?,Computer Science Engineering generally provides higher salary opportunities.,"CSE usually offers higher starting salaries, especially in software and technology companies.",False,True,0.8172,4.99
+Which branch is better for PSU jobs?,Electrical Engineering and Civil Engineering are suitable for PSU jobs.,"EE and CE are better suited for government jobs such as PSU, railways, and public works departments.",False,True,0.8058,5.6
+Does the college support green energy initiatives?,"Yes, the college uses limited renewable energy systems.","Yes, the college supports green energy initiatives.",False,False,0.7797,4.27
+Are solar-powered streetlights available on campus?,"Yes, some streetlights are solar-powered.",Some solar-powered systems like streetlights exist.,False,True,0.942,4.17
+Does the college provide first-aid facilities?,"Yes, basic first-aid facilities are available.","Yes, Basic first-aid facilities are available in the hostel/campus. In case of medical emergencies, students are referred to nearby hospitals in Bilaspur (Like AIIMS, Civil Hospital Bilaspur.",False,False,0.7559,8.54
+Is there technical support available on campus?,"Yes, technical support staff are available.","Yes, Technical assistance is available for students facing digital issues.",False,False,0.7453,4.68
+Are placement opportunities available for students?,"Yes, placement opportunities are available for students.","Yes, placement opportunities are mainly available to final-year students.",False,True,0.8662,4.57
+Name some recruiting companies visiting the campus.,"Recruiting companies include Pricol Precision Products Pvt. Ltd., Novem Controls Pvt. Ltd., and Hartek Power Pvt. Ltd.","TCS, Infosys, Wipro, Accenture, Capgemini, etc.",False,False,0.5538,5.32
+What is the lowest placement package offered?,The minimum package offered was 4 LPA.,"The minimum package offered in the last three years is 1.4 LPA. This was offered by Novem Controls Pvt. Ltd., indicating the lower bound of salary offers.",False,False,0.7988,7.84
+Does the college provide campus placements?,"Yes, the college provides campus placement opportunities.","Yes, The college has a Training & Placement Cell that coordinates campus recruitment drives, internship opportunities, and career guidance programs.",False,False,0.7963,6.16
+Is there backup support in lecture halls?,"Yes, lecture halls receive partial backup support.","Yes, but only partial backup is available.",False,False,0.7647,4.24
+Can students use charging sockets during outages?,"No, charging sockets do not work during power outages in hostels.",No.,False,False,0.5154,3.33
+Are emergency lights available in hostel buildings?,"No, emergency lights are not available in hostel buildings.",No.,False,False,0.4924,3.41
+Does the hostel have automatic lighting systems?,"No, automatic lighting systems are not available.",No.,False,False,0.5317,3.5
+Is water supply maintained during power cuts?,"Yes, basic water supply is generally maintained during outages.",Basic services may still function.,False,False,0.7222,3.78
+Does the college have environment-related clubs?,"Yes, the college has the Environment and Energy Conservation Club.","Yes, the college has the Environment and Energy Conservation Club (E&EC).",False,True,0.9548,5.23
+Is GHEC suitable for technology-related careers?,"Yes, GHEC offers Computer Science Engineering with AI and Data Science specialization.",Yes.,False,False,0.492,3.48
+What facilities are provided in academic areas during power cuts?,Academic areas receive backup electricity at reduced capacity.,Backup power available at reduced capacity.,False,True,0.838,4.05
+Do classrooms remain functional during outages?,"Yes, classrooms continue functioning with limited backup support.","Some lights may stay on, but not all.",False,False,0.5708,4.37
+Can lab work continue during short power failures?,"Yes, UPS systems help labs continue functioning during short interruptions.",Yes.,False,False,0.5041,3.42
+Are hostel students provided backup lighting?,"No, backup lighting is not available in hostels.",No.,False,False,0.4727,3.43
+What happens to hostel fans during electricity failure?,Fans do not work during hostel power cuts.,Hostel fans do not have power during outages.,False,True,0.9154,4.46
+Can students use electrical sockets in hostel during outages?,"No, sockets do not work during power outages.","No, sockets do not work.",False,True,0.896,4.23
+Does the campus use diesel generators?,"Yes, diesel generators are installed for backup purposes.",Yes.,False,False,0.4986,3.38
+How long can backup generators operate?,Generators can operate for extended durations for essential areas.,Generators can run for extended periods for essential areas.,False,True,0.9683,4.42
+Is the entire campus supported by backup power?,"No, only important academic and essential areas receive partial backup.",No.,False,False,0.4806,3.34
+Do lifts work during electricity cuts?,Lift operation depends on backup availability.,It depends on backup availability.,False,True,0.8185,3.86
+Is lift usage safe during power outages?,"Yes, lift usage is safe but may be restricted during outages.","Yes, but usage may be restricted.",False,False,0.7395,4.05
+Do generators create noise in hostels?,"No, generator noise is minimal in hostel areas.",Noise is minimal in hostels.,False,True,0.8802,3.94
+Who should students contact for electricity failures?,Students should contact the hostel warden or maintenance staff.,Contact the hostel warden or maintenance staff.,False,True,0.9049,4.17
+Who maintains power systems in the college?,The maintenance team manages the power systems.,The maintenance team manages systems.,False,True,0.9109,3.82
+Are infrastructure support teams available?,"Yes, infrastructure support teams are available.",Yes.,False,False,0.5891,3.33
+How many tables are available in hostel rooms?,There are 3 tables available in each room.,Hostel rooms include study tables.,False,False,0.7655,3.97
+How many chairs are available in each hostel room?,There are 3 chairs available in each room.,"There are 3 chairs, one for each student.",False,True,0.8863,4.55
+What type of room sharing system is available in hostel?,The hostel follows a triple-sharing room arrangement.,Single occupancy.,False,False,0.6295,3.55
+Is furniture equally distributed among hostel students?,"Yes, furniture is equally distributed among students.","Yes, the furniture is sufficient for all students.",False,True,0.8839,4.36
+What amenities does each hostel student receive?,"Each student receives a bed, chair, table, and almirah.","Each student is provided with individual amenities such as a bed for sleeping, an almirah for storage, a table for studying, and a chair for seating.",False,True,0.8511,7.05
+Can hostel rooms comfortably accommodate additional students?,"No, hostel rooms are designed for only 3 students.",Yes.,False,False,0.4009,3.46
+What basic facilities are available in hostel rooms?,"Hostel rooms include beds, tables, chairs, and almirahs.","Hostel rooms generally include beds, study tables, chairs, and cupboards.",False,True,0.9209,5.06
+Are hostel facilities individually assigned or shared?,Facilities are individually assigned to each student.,Hostel rooms are allotted by the hostel administration based on availability and college rules.,False,False,0.7025,5.13
+What makes hostel rooms comfortable for students?,Separate furniture for each student ensures comfort and convenience.,"The hostel provides convenience, safety, and easy access to campus facilities.",False,False,0.6675,5.01
+Who is responsible for hostel safety?,Hostel safety is maintained by security guards under the supervision of the Chief Warden.,The Chief Warden and security guards are responsible for maintaining safety in the hostel.,False,True,0.9723,5.19
+How many security guards are deployed in hostels?,Each hostel has two security guards.,Each hostel has two security guards.,True,True,1.0,4.14
+What role does the hostel caretaker perform?,The caretaker manages daily operations and assists students with routine issues.,"The caretaker manages daily operations, maintains facilities, and helps students with routine issues.",False,True,0.9866,5.28
+Whom should students approach for hostel security concerns?,Students should approach the security guards for security concerns.,Students should contact the security guards.,False,True,0.9398,4.13
+What engineering branch is best for software development?,Computer Science Engineering is best for software development.,CSE.,False,False,0.677,3.61
+Which branch is best for infrastructure-related careers?,Civil Engineering is best for infrastructure-related careers.,CE is ideal for infrastructure-related work.,False,False,0.7715,4.19
+Which engineering branch is related to circuits and electronics?,Electrical Engineering is related to circuits and electronics.,Electrical Engineering.,False,True,0.8717,3.63
+Which branch is suitable for data science careers?,Computer Science Engineering is suitable for data science careers.,CSE provides a strong foundation for data science careers.,False,True,0.8334,4.45
+Can Civil Engineering students work in government sectors?,"Yes, Civil Engineering students can work in government infrastructure sectors.",Yes.,False,False,0.5015,3.41
+Is Electrical Engineering useful for renewable energy careers?,"Yes, Electrical Engineering is useful for renewable energy careers.",Electric vehicles and renewable energy are emerging fields that are part of the Electrical Engineering (EE) curriculum.,False,True,0.8017,5.67
+Does the college provide opportunities in AI technologies?,"Yes, the college offers specialization in Artificial Intelligence and Data Science.",Yes.,False,False,0.4824,3.47
+What future scope does Computer Science Engineering have?,Computer Science Engineering has strong future scope due to advancements in AI and digital technologies.,"CSE has the highest future scope due to rapid advancements in AI, automation, and digital technologies.",False,True,0.8862,5.56
+Can students from Electrical Engineering switch to IT careers?,"Yes, Electrical Engineering students can enter IT careers by learning programming skills.","Yes, EE students can enter the IT field by learning programming and software development skills.",False,True,0.9238,5.19
+Does the college provide stable electricity supply?,"Yes, electricity supply is generally stable with occasional interruptions.",Electricity is generally stable but outages can happen.,False,True,0.8855,4.4
+Are long power cuts common in the campus?,"No, long power cuts are not very common but may occur occasionally.",Power cuts may occur occasionally depending on local conditions.,False,True,0.8542,4.29
+Can students study during long power outages?,"Yes, students can continue studying in academic areas with limited backup.",College continues partially.,False,False,0.7132,3.57
+What happens to hostel electricity during long outages?,Hostels remain without electricity during long outages.,Hostels remain without electricity.,False,True,0.9348,3.89
+Does the college provide water supply during blackouts?,"Yes, basic water supply is generally maintained during blackouts.","Generally, yes, but may vary.",False,False,0.5668,4.07
