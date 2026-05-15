@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-API_URL = "http://127.0.0.1:8000/chat"
+API_URL = "https://render.com/docs/troubleshooting-deploys"
 LOGO_PATH = Path("assets/footer-logo-icon.png")
 
 # -------------------- HELPERS --------------------
@@ -345,7 +345,7 @@ if st.session_state.show_panel:
             "What facilities are available in hostel?",
             "When was GHEC established?",
             "Is the college government or private?",
-            "What courses are offered?"
+            "What engineering programs are offered at Government Hydro Engineering College Bandla?"
         ]
 
         for i, q in enumerate(suggestions):
